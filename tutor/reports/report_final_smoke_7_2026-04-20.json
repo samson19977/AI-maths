@@ -1,0 +1,33 @@
+{
+  "learner_id": "final_smoke_7",
+  "week_starting": "2026-04-20",
+  "sessions": 0,
+  "skills": {
+    "counting": {
+      "current": 0.8,
+      "delta": 0.0
+    },
+    "number_sense": {
+      "current": 0.7,
+      "delta": 0.0
+    },
+    "addition": {
+      "current": 0.5,
+      "delta": 0.0
+    },
+    "subtraction": {
+      "current": 0.3,
+      "delta": 0.0
+    },
+    "word_problem": {
+      "current": 0.2,
+      "delta": 0.0
+    }
+  },
+  "icons_for_parent": [
+    "flat",
+    "counting",
+    "word_problem"
+  ],
+  "voiced_summary_audio": ""
+}
